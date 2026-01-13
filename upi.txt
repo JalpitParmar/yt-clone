@@ -1,0 +1,2 @@
+success@razorpay
+failure@razorpay
